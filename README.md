@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Building skills
 - 🌱 I’m currently learning Data Structure & Algo.
 - 💬 Ask me about DSA & CybersScurity
-- 📫 How to reach me: ✉️info.geetesh@gmail.com
+- 📫 How to reach me: ✉info.geetesh@gmail.com
 - ⚡ Fun fact: I am a writer
 -->
