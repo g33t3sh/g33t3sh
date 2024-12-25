@@ -2,8 +2,7 @@
 👨‍💻Software Development enthusiast 🚀 
 Shaping the future of secure software, one line of code at a time!
 
-![profile image] (C:\Users\Geetesh\OneDrive\Desktop)
-
+![Profile Image ] (profile_image.png)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Building skills
