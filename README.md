@@ -2,8 +2,6 @@
 👨‍💻Software Development enthusiast 🚀 
 Shaping the future of secure software, one line of code at a time!
 
- <img src="https://www.freepik.com/free-vector/programmers-day-banner-design_30161159.htm#fromView=keyword&page=1&position=38&uuid=149cf9d7-4173-45be-a2b3-df299174b2f1&new_detail=true"/>
-
 # 💫 About Me:
 🌱 I’m currently learning Data Structure & Algo.<br>💬 Ask me about DSA & CybersScurity<br>📫 How to reach me: info.geetesh@gmail.com<br>⚡ Fun fact: I am a writer
 
