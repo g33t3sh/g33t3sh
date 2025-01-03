@@ -1,5 +1,5 @@
 # Hi 😊, I'm Geetesh 
-👨‍💻Software Development enthusiast 🚀 
+👨‍💻Software Development Enthusiast 🚀 
 Shaping the future of secure software, one line of code at a time!
 
 # 💫 About Me:
