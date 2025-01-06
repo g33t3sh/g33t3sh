@@ -1,6 +1,5 @@
 # Hi 😊, I'm Geetesh 
 👨‍💻Software Development Enthusiast 🚀 
-Shaping the future of secure software, one line of code at a time! 
 
 # 💫 About Me:
 🌱 I’m currently learning Data Structure & Algo.<br>💬 Ask me about DSA & CybersScurity<br>📫 How to reach me: info.geetesh@gmail.com<br>⚡ Fun fact: I am a writer
