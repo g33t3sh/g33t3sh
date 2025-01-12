@@ -18,6 +18,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=g33t3sh&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
+[![Geetesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=g33t3sh&theme=github-compact)](https://github.com/g33t3sh/github-readme-activity-graph)
+
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
