@@ -3,7 +3,7 @@
 Not all who wander are lost, some are just exploring datasets.🧠
 
 # 💫 About Me:
-📚 Constant Learner
+📚 Constant Learner <br>
 🌱 I’m currently learning Data Analytics🛠️ <br>
 💬 Ask me about SQL, Excel, Python, PowerBI <br>
 📫 How to reach me: info.geetesh@gmail.com <br>
