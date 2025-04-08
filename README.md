@@ -1,12 +1,12 @@
 # Hi 😊, I'm Geetesh 
-📊 Data Enthusiast 🚀
-Not all who wander are lost, some are just exploring datasets.📚
+📊 Data Enthusiast<br>
+Not all who wander are lost, some are just exploring datasets.🧠
 
 # 💫 About Me:
-📚 Constant Learner | 🧠 Obsessed with clean code & clean data
-🌱 I’m currently learning SQL, Excel, Python, Power BI, Data Structure & Algo.<br>
+📚 Constant Learner
+🌱 I’m currently learning Data Analytics🛠️ <br>
 💬 Ask me about SQL, Excel, Python, PowerBI <br>
-📫 How to reach me: info.geetesh@gmail.com<br>
+📫 How to reach me: info.geetesh@gmail.com <br>
 ⚡ Fun fact: I am a writer
 
 
