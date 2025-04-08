@@ -1,8 +1,13 @@
 # Hi 😊, I'm Geetesh 
-👨‍💻Software Development Enthusiast 🚀 
+📊 Data Enthusiast 🚀
+Not all who wander are lost, some are just exploring datasets.📚
 
 # 💫 About Me:
-🌱 I’m currently learning Data Structure & Algo.<br>💬 Ask me about DSA & CybersScurity<br>📫 How to reach me: info.geetesh@gmail.com<br>⚡ Fun fact: I am a writer
+📚 Constant Learner | 🧠 Obsessed with clean code & clean data
+🌱 I’m currently learning SQL, Excel, Python, Power BI, Data Structure & Algo.<br>
+💬 Ask me about SQL, Excel, Python, PowerBI <br>
+📫 How to reach me: info.geetesh@gmail.com<br>
+⚡ Fun fact: I am a writer
 
 
 ## 🌐 Socials:
